@@ -11,3 +11,4 @@ Soundglom org
 
 ### Collaborators and Contributors
 - Muhsin Abdul-Musawwir - #Shinobi881
+- Edgar Gutierrez - #ejgutierrezvega
